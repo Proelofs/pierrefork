@@ -1,6 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
+using Microsoft.OpenApi;
 using VerzekeringApi.Data;
 
 var builder = WebApplication.CreateBuilder(args);
